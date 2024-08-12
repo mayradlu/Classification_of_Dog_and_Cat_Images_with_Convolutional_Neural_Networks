@@ -25,3 +25,6 @@ Recall: 0.90
 F1-score: 0.80
 
 Overall Accuracy: 0.77
+
+## Python
+Instructions for downloading libraries are already in the Python notebook
