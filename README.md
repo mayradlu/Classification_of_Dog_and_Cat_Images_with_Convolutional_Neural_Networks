@@ -16,15 +16,18 @@ Deep learning, a branch of machine learning, uses neural networks inspired by th
 Initially, 6,000 images of dogs and 6,000 images of cats were considered. However, an imbalance was observed when separating the training and test sets, resulting in poor performance for the classification of cats. To solve this, a subsampling was performed that balanced the images of both classes, resulting in a total of 11,685 images (5,842 dogs and 5,843 cats).
 
 ## Results
-Accuracy for Cats (0): 87%
-Recall: 0.65
-F1-score: 0.75
-
-Accuracy for Dogs (1): 71%
-Recall: 0.90
-F1-score: 0.80
+* Cats: 0
+* Dogs: 1
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cff03a37-787a-4664-bbd5-5ab0819b407f" alt="imagen" width="600">
+</p>
 
 Overall Accuracy: 0.77
+
+## Example of Classification
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/92b6f0af-b534-4c2c-b233-a2ea49318269" alt="imagen" width="600">
+</p>
 
 ## Python
 Instructions for downloading libraries are already in the Python notebook
